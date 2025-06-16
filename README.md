@@ -1,8 +1,10 @@
 ## Hi there 👋
--🔭 I’m currently working on ...
--🌱 I’m currently learning ...
--👯 I’m looking to collaborate on ...
--🤔 I’m looking for help with ...
+
+My name is Nancy and I am experienced in Quality Assurance and Business Analysis!
+
+-🌱 I’m currently learning Cypress
+-🤔 I’m looking for help with building a portfolio and landing a job
+
 -📫 How to reach me:
 Mobile: +12267924466
 MailId: nancyebinezer@gmail.com
