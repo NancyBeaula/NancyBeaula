@@ -2,8 +2,7 @@
 
 My name is Nancy and I am experienced in Quality Assurance and Business Analysis!
 
--🌱 I’m currently looking for oppturnities
--🤔 and for help with building a portfolio and landing a job
+-🌱 I’m currently looking for oppturnities 🤔 and for help with building a portfolio and landing a job
 
 -📫 How to reach me:
 Mobile: +12267924466
