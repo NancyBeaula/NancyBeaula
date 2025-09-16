@@ -5,9 +5,9 @@ My name is Nancy and I am an experienced Quality Assurance and Business Analyst!
 -🌱 I’m currently looking for oppturnities 🤔 and for help with building a portfolio and landing a job
 
 -📫 How to reach me:
-Mobile: +12267924466
-MailId: nancyebinezer@gmail.com
-Linkdln: www.linkedin.com/in/nancybeaula
+- Mobile: +12267924466
+- MailId: nancyebinezer@gmail.com
+- Linkdln: www.linkedin.com/in/nancybeaula
 
 <!--
 **NancyBeaula/NancyBeaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
