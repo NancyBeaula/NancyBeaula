@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nancy and I am experienced in Quality Assurance and Business Analysis!
+My name is Nancy and I am an experienced Quality Assurance and Business Analyst!
 
 -🌱 I’m currently looking for oppturnities 🤔 and for help with building a portfolio and landing a job
 
