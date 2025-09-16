@@ -2,7 +2,7 @@
 
 My name is Nancy and I am experienced in Quality Assurance and Business Analysis!
 
--🌱 I’m currently learning Cypress
+-🌱 I’m currently looking for oppturnities
 -🤔 I’m looking for help with building a portfolio and landing a job
 
 -📫 How to reach me:
