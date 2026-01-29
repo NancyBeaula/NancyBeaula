@@ -1,13 +1,18 @@
 ## Hi there 👋
 
-My name is Nancy and I am an experienced Quality Assurance and Business Analyst!
+My name is Nancy Beaula, and I’m an experienced Quality Assurance Engineer and Business Analyst with a strong background in delivering high-quality software solutions across fintech and enterprise domains.
 
--🌱 I’m currently looking for oppturnities 🤔 and for help with building a portfolio and landing a job
+🌱 I’m currently working as a Senior Quality Engineer / Automation Tester in Canada, while actively building expertise in AI-driven testing, RAG systems, and agentic AI solutions
 
--📫 How to reach me:
-- Mobile: +12267924466
-- MailId: nancyebinezer@gmail.com
-- Linkdln: www.linkedin.com/in/nancybeaula
+💡 Interests: Test Automation, API Testing, AI in QA, Business Analysis, and Process Optimization
+
+📫 How to reach me:
+
+📱 Mobile: +1 226-792-4466
+
+📧 Email: nancyebinezer@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/nancybeaula
 
 <!--
 **NancyBeaula/NancyBeaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
