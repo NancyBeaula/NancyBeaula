@@ -2,7 +2,7 @@
 
 My name is Nancy Beaula, and I’m an experienced Quality Assurance Engineer and Business Analyst with a strong background in delivering high-quality software solutions across fintech and enterprise domains.
 
-🌱 I’m currently working as a Senior Quality Engineer / Automation Tester, while actively building expertise in AI-driven testing, agentic AI solutions
+🌱 I’m currently working as a Senior Quality Engineer, while actively building expertise in AI-driven testing, agentic AI solutions
 
 💡 Interests: Test Automation, API Testing, AI in QA, Business Analysis, and Process Optimization
 
